@@ -1,6 +1,0 @@
-unit-test enable_if : enable_if.cpp ;
-unit-test call_traits : call_traits.cpp ;
-unit-test concept_check : concept_check.cpp ;
-
-# disable
-#unit-test function_types : function_types.cpp ;

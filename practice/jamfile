@@ -1,3 +1,0 @@
-
-exe srv : srv.cpp /lib//boost_thread ;
-exe client : client.cpp /lib//boost_thread ;

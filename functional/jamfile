@@ -1,3 +1,0 @@
-unit-test hash : hash.cpp ;
-unit-test mem_fn : mem_fn.cpp ;
-unit-test factory : factory.cpp ;
